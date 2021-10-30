@@ -41,3 +41,9 @@
 <p align="center">
   <img src="https://github.com/EwertonBello/EwertonBello/blob/output/github-contribution-grid-snake.gif">
 </p>
+
+<!-- 
+References
+01 - https://github.com/n1nj4z33/n1nj4z33
+02 - https://sayed.cyou/learning/how-to-enable-github-actions-on-your-profile-readme-for-a-snake-eating-contribution-graph-%F0%9F%90%8D-learn-from-tutorial/
+-->
